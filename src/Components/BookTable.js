@@ -1,5 +1,4 @@
 import { Container,Row, Col, Button } from 'react-bootstrap';
-import '../index.css'
 import './CompoFive.css'
 function CompoFive() {
     return (
